@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "夜中のキスミ",
+  "base_artist": "ずっと真夜中でいいのに。",
+  "createdAt": "2026-02-21T07:41:10.353858Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夜中のキスミ",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/01_夜中のキスミ_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "夜中のキスミ",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/02_夜中のキスミ_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "夜中のキスミ",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/03_夜中のキスミ_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "夜中のキスミ - Kisumi at Midnight",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/04_夜中のキスミ_-_Kisumi_at_Midnight_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "夜中のキスミ (Instrumental)",
+      "artist": "Zutomayo",
+      "has_synced": true,
+      "path": "select/05_夜中のキスミ_(Instrumental)_Zutomayo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夜中のキスミ",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_01_夜中のキスミ_ずっと真夜中でいいのに。.txt"
+    }
+  ]
+}
